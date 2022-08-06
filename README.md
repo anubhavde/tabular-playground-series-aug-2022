@@ -24,3 +24,4 @@ Access the 7.21 MB dataset using Kaggle API:
 ```console
 kaggle competitions download -c tabular-playground-series-aug-2022
 ```
+
